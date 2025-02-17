@@ -1,0 +1,22 @@
+$primary-color: #bebebe;
+$button-color: #ffffff;
+$button-hover-color: #555555;
+body {
+  background-color: $primary-color;
+}
+.container {
+  padding: 20px;
+  color: white;
+}
+
+button{
+  border: none;
+  background-color: $button-color;
+}
+button:hover{
+  background-color: $button-hover-color;
+}
+
+p{
+  color:black;
+}

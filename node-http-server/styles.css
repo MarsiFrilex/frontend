@@ -1,0 +1,23 @@
+body {
+  background-color: #bebebe;
+}
+
+.container {
+  padding: 20px;
+  color: white;
+}
+
+button {
+  border: none;
+  background-color: #ffffff;
+}
+
+button:hover {
+  background-color: #555555;
+}
+
+p {
+  color: black;
+}
+
+/*# sourceMappingURL=styles.css.map */
